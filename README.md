@@ -16,9 +16,13 @@ At the start of the 20th century German Scientist Sir Albert Einstein then propo
 The General Relativity deals with large objects and considers Universe as a space time fabric which is geometric and predictable. This is basically the theory proposed by Sir Albert Einstein with little modification.
 
 ### QUANTUM PHYSICS
-Quantum Physics on the other hand deal with minute or micro things like electrons, neutrons etc. which are totally unpredictable. It deals with 3 types of forces:
+Quantum Physics on the other hand deal with minute or micro things like electrons, neutrons etc. which are totally unpredictable. 
 
-* Nuclear Force (S)
+
+### There are 4 types of forces:
+
+* Gravity
+* The Strong force
 * Electromagnetic Force (ES)
 * Weak Force (W)
 
