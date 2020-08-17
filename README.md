@@ -44,3 +44,4 @@ Edwin Witten came up with new theory which he named the M-Theory. This theory re
 It suggests Universe to be a Membrane or Brane.
 
 ## Chapter 2: TIME
+Time in physics is defined by its measurement: time is what a clock reads.[1] In classical, non-relativistic physics, it is a scalar quantity and, like length, mass, and charge, is usually described as a fundamental quantity. Time can be combined mathematically with other physical quantities to derive other concepts such as motion, kinetic energy and time-dependent fields. Timekeeping is a complex of technological and scientific issues, and part of the foundation of recordkeeping.
