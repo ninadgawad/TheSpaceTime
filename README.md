@@ -45,3 +45,6 @@ It suggests Universe to be a Membrane or Brane.
 
 ## Chapter 2: TIME
 Time in physics is defined by its measurement: time is what a clock reads.[1] In classical, non-relativistic physics, it is a scalar quantity and, like length, mass, and charge, is usually described as a fundamental quantity. Time can be combined mathematically with other physical quantities to derive other concepts such as motion, kinetic energy and time-dependent fields. Timekeeping is a complex of technological and scientific issues, and part of the foundation of recordkeeping.
+
+
+Early in 20th century people thought that time was the same for everyone everywhere and is the basis for time lines where time just is a parameter. However modern understanding of time is based on *Einstein's* theory of relativity, in which rates of time run differently depending on relative motion, and space and time are merged into spacetime, where we live on a world line rather than a timeline. As part of Big Bang theory, time itself began as part of the entire Universe about 13.8 billion years ago. This generally leads to a followup question what was there before the Big Bang; does the arrow of time very has a begining or its always existed with or without or Universe's existance 
